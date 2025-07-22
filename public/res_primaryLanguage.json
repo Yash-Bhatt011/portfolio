@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "Hello, I'm Yash Bhatt, a passionate front-end developer with a focus on creating dynamic and user-friendly web applications. I am a front-end developer with experience in modern JavaScript frameworks, including React. I have completed a one-year internship, during which I focused on building dynamic and user-friendly interfaces using React and JavaScript. This experience allowed me to strengthen my skills in component-based architecture, state management, and modern web development practices.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Milk Distributor",
+      "startDate": "2025",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all records for milk distibution it has 3 side Admin,Distributor and Customer all has thier saprate login system and dashboard for details.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg",
+        "images/portfolio/animal-shelter/p3.jpg"
+      ],
+      "url": "https://milk-distributor-u9uk.onrender.com/login",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "personal website",
+      "startDate": "2025",
+      "description": "Personal project for an public speaker and kathar artist. It is a simple website with information about artist, his works and contact details. It is a static website built with HTML, CSS and JavaScript. It is responsive and works well on mobile devices.",
+      "images": [
+        "images/portfolio/personal-website/p1.jpg",
+        "images/portfolio/personal-website/p2.jpg",
+        "images/portfolio/personal-website/p3.jpg"
+      ],
+      "url": "https://jay-bhatt-official.onrender.com",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "team-collabration",
+      "startDate": "2025",
+      "description": "This portfolio is a showcase of my skills and projects. It is built with React and uses modern web development practices. It is responsive and works well on mobile devices.",
+      "images": [
+        "images/portfolio/team-collabration/p1.jpg",
+        "images/portfolio/team-collabration/p2.jpg",
+        "images/portfolio/team-collabration/p3.jpg",
+        "images/portfolio/team-collabration/p4.jpg",
+        "images/portfolio/team-collabration/p5.jpg",
+        "images/portfolio/team-collabration/p6.jpg"
+      ],
+      "url": "https://team-collab-platform-final.onrender.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ]
+}

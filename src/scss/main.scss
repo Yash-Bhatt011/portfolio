@@ -1,0 +1,49 @@
+@import './variables';
+
+body {
+  font-family: $body-font;
+  background-color: $background-color;
+  color: $text-color;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font;
+  color: $primary-color;
+  margin-bottom: 1rem;
+}
+
+button {
+  font-family: $heading-font;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+a {
+  color: $accent-color;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* Utility classes */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.card {
+  background: white;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+/* Add more modern styles as needed */
